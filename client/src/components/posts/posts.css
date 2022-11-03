@@ -1,0 +1,6 @@
+.posts{
+    flex: 9;
+    display: flex;
+    flex-wrap: wrap;   /*adjust according to their width and then shift to next line */
+    margin: 20px;
+}
